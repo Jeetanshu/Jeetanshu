@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<p align="center">
+<a href="https://github.com/imadatyatalah">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jeetanshu&show_icons=true&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jeetanshu&layout=compact&langs_count=6&theme=react"/>
+</a>
+</p>
+
 <!--
 **Jeetanshu/Jeetanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
