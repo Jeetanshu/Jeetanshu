@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## GitHub profile stats
+
 <p align="center">
 <a href="https://github.com/imadatyatalah">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jeetanshu&show_icons=true&theme=react"/>
