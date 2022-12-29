@@ -1,6 +1,6 @@
-## Hi there 👋
+### Hi there 👋
 
-## About Me:
+### About Me:
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
@@ -11,7 +11,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-## GitHub profile stats
+### GitHub profile stats
 
 <p align="center">
 <a href="https://github.com/imadatyatalah">
